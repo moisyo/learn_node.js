@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "csv": "^5.3.1",
+    "request": "^2.88.0"
+  }
+}
