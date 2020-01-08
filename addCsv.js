@@ -26,12 +26,12 @@ function sum(csvNum, addNum){
     return csvNum + addNum;
 }
 
-function readCsvSync(filename) {
+// function readCsvSync(filename) {
 
-    const content = fs.readFileSync(filename).toString();
+//     const content = fs.readFileSync(filename).toString();
 
-    return parse(content);
-  }
+//     return parse(content);
+//   }
 
 //   const records = readCsvSync('jest.csv');
 //   var num = parseInt(records[1]);
